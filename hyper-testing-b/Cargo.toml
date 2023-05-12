@@ -1,0 +1,12 @@
+[package]
+name = "hyper-testing-a"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hyper = { version = "0.14.19", features = ["full"] }
+tokio = { version = "1.28.1", features = ["full"] }
+tracing = "0.1.37"
+tracing-subscriber = "0.3.17"
