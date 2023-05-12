@@ -1,0 +1,800 @@
+2023-05-12T20:40:47.332794Z hello_world: new
+2023-05-12T20:40:47.332844Z hello_world: enter
+2023-05-12T20:40:47.332850Z hello_world: exit
+2023-05-12T20:40:47.332877Z hello_world: close time.busy=5.75µs time.idle=86.2µs
+2023-05-12T20:40:47.335987Z hello_world: new
+2023-05-12T20:40:47.336001Z hello_world: enter
+2023-05-12T20:40:47.336005Z hello_world: exit
+2023-05-12T20:40:47.336008Z hello_world: close time.busy=4.29µs time.idle=18.0µs
+2023-05-12T20:40:47.336051Z hello_world: new
+2023-05-12T20:40:47.336060Z hello_world: enter
+2023-05-12T20:40:47.336064Z hello_world: exit
+2023-05-12T20:40:47.336067Z hello_world: close time.busy=3.83µs time.idle=12.9µs
+2023-05-12T20:40:47.336083Z hello_world: new
+2023-05-12T20:40:47.336088Z hello_world: enter
+2023-05-12T20:40:47.336091Z hello_world: exit
+2023-05-12T20:40:47.336094Z hello_world: close time.busy=2.96µs time.idle=9.04µs
+2023-05-12T20:40:47.336104Z hello_world: new
+2023-05-12T20:40:47.336109Z hello_world: enter
+2023-05-12T20:40:47.336112Z hello_world: exit
+2023-05-12T20:40:47.336115Z hello_world: close time.busy=3.04µs time.idle=7.92µs
+2023-05-12T20:40:47.336140Z hello_world: new
+2023-05-12T20:40:47.336143Z hello_world: enter
+2023-05-12T20:40:47.336146Z hello_world: exit
+2023-05-12T20:40:47.336150Z hello_world: new
+2023-05-12T20:40:47.336160Z hello_world: enter
+2023-05-12T20:40:47.336164Z hello_world: exit
+2023-05-12T20:40:47.336168Z hello_world: close time.busy=3.88µs time.idle=15.0µs
+2023-05-12T20:40:47.336150Z hello_world: close time.busy=3.17µs time.idle=7.08µs
+2023-05-12T20:40:47.336198Z hello_world: new
+2023-05-12T20:40:47.336220Z hello_world: enter
+2023-05-12T20:40:47.336232Z hello_world: new
+2023-05-12T20:40:47.336199Z hello_world: new
+2023-05-12T20:40:47.336277Z hello_world: new
+2023-05-12T20:40:47.336236Z hello_world: exit
+2023-05-12T20:40:47.336281Z hello_world: new
+2023-05-12T20:40:47.336253Z hello_world: enter
+2023-05-12T20:40:47.336333Z hello_world: new
+2023-05-12T20:40:47.336342Z hello_world: exit
+2023-05-12T20:40:47.336220Z hello_world: new
+2023-05-12T20:40:47.336359Z hello_world: close time.busy=89.1µs time.idle=39.1µs
+2023-05-12T20:40:47.336368Z hello_world: enter
+2023-05-12T20:40:47.336376Z hello_world: exit
+2023-05-12T20:40:47.336382Z hello_world: close time.busy=8.33µs time.idle=155µs
+2023-05-12T20:40:47.336302Z hello_world: enter
+2023-05-12T20:40:47.336407Z hello_world: new
+2023-05-12T20:40:47.336421Z hello_world: enter
+2023-05-12T20:40:47.336303Z hello_world: close time.busy=15.7µs time.idle=93.6µs
+2023-05-12T20:40:47.336327Z hello_world: enter
+2023-05-12T20:40:47.336351Z hello_world: enter
+2023-05-12T20:40:47.336409Z hello_world: exit
+2023-05-12T20:40:47.336473Z hello_world: new
+2023-05-12T20:40:47.336483Z hello_world: close time.busy=107µs time.idle=99.4µs
+2023-05-12T20:40:47.336491Z hello_world: enter
+2023-05-12T20:40:47.336503Z hello_world: exit
+2023-05-12T20:40:47.336507Z hello_world: exit
+2023-05-12T20:40:47.336514Z hello_world: new
+2023-05-12T20:40:47.336522Z hello_world: close time.busy=180µs time.idle=62.1µs
+2023-05-12T20:40:47.336334Z hello_world: enter
+2023-05-12T20:40:47.336541Z hello_world: exit
+2023-05-12T20:40:47.336439Z hello_world: new
+2023-05-12T20:40:47.336554Z hello_world: new
+2023-05-12T20:40:47.336558Z hello_world: enter
+2023-05-12T20:40:47.336559Z hello_world: enter
+2023-05-12T20:40:47.336569Z hello_world: exit
+2023-05-12T20:40:47.336571Z hello_world: close time.busy=9.79µs time.idle=123µs
+2023-05-12T20:40:47.336587Z hello_world: new
+2023-05-12T20:40:47.336591Z hello_world: enter
+2023-05-12T20:40:47.336593Z hello_world: exit
+2023-05-12T20:40:47.336595Z hello_world: close time.busy=2.38µs time.idle=6.50µs
+2023-05-12T20:40:47.336620Z hello_world: new
+2023-05-12T20:40:47.336387Z hello_world: new
+2023-05-12T20:40:47.336468Z hello_world: exit
+2023-05-12T20:40:47.336641Z hello_world: close time.busy=117µs time.idle=191µs
+2023-05-12T20:40:47.336649Z hello_world: enter
+2023-05-12T20:40:47.336507Z hello_world: close time.busy=12.2µs time.idle=22.3µs
+2023-05-12T20:40:47.336675Z hello_world: new
+2023-05-12T20:40:47.336547Z hello_world: close time.busy=208µs time.idle=140µs
+2023-05-12T20:40:47.336714Z hello_world: new
+2023-05-12T20:40:47.336729Z hello_world: enter
+2023-05-12T20:40:47.336735Z hello_world: exit
+2023-05-12T20:40:47.336740Z hello_world: new
+2023-05-12T20:40:47.336748Z hello_world: enter
+2023-05-12T20:40:47.336629Z hello_world: enter
+2023-05-12T20:40:47.336764Z hello_world: exit
+2023-05-12T20:40:47.336425Z hello_world: exit
+2023-05-12T20:40:47.336774Z hello_world: close time.busy=134µs time.idle=19.8µs
+2023-05-12T20:40:47.336666Z hello_world: exit
+2023-05-12T20:40:47.336690Z hello_world: enter
+2023-05-12T20:40:47.336805Z hello_world: exit
+2023-05-12T20:40:47.336814Z hello_world: close time.busy=115µs time.idle=24.7µs
+2023-05-12T20:40:47.336822Z hello_world: new
+2023-05-12T20:40:47.336833Z hello_world: enter
+2023-05-12T20:40:47.336753Z hello_world: exit
+2023-05-12T20:40:47.336781Z hello_world: close time.busy=3.88µs time.idle=368µs
+2023-05-12T20:40:47.336562Z hello_world: exit
+2023-05-12T20:40:47.336795Z hello_world: close time.busy=17.8µs time.idle=390µs
+2023-05-12T20:40:47.336859Z hello_world: close time.busy=4.38µs time.idle=301µs
+2023-05-12T20:40:47.336877Z hello_world: new
+2023-05-12T20:40:47.336886Z hello_world: enter
+2023-05-12T20:40:47.336889Z hello_world: exit
+2023-05-12T20:40:47.336891Z hello_world: close time.busy=2.42µs time.idle=11.5µs
+2023-05-12T20:40:47.336894Z hello_world: new
+2023-05-12T20:40:47.336896Z hello_world: new
+2023-05-12T20:40:47.336908Z hello_world: new
+2023-05-12T20:40:47.336911Z hello_world: enter
+2023-05-12T20:40:47.336913Z hello_world: enter
+2023-05-12T20:40:47.336920Z hello_world: exit
+2023-05-12T20:40:47.336931Z hello_world: close time.busy=7.00µs time.idle=27.7µs
+2023-05-12T20:40:47.336529Z hello_world: enter
+2023-05-12T20:40:47.336844Z hello_world: close time.busy=4.50µs time.idle=102µs
+2023-05-12T20:40:47.336897Z hello_world: enter
+2023-05-12T20:40:47.336979Z hello_world: new
+2023-05-12T20:40:47.336987Z hello_world: exit
+2023-05-12T20:40:47.336994Z hello_world: enter
+2023-05-12T20:40:47.337003Z hello_world: close time.busy=89.3µs time.idle=20.2µs
+2023-05-12T20:40:47.336862Z hello_world: new
+2023-05-12T20:40:47.337033Z hello_world: enter
+2023-05-12T20:40:47.337041Z hello_world: exit
+2023-05-12T20:40:47.337050Z hello_world: close time.busy=8.08µs time.idle=181µs
+2023-05-12T20:40:47.337056Z hello_world: new
+2023-05-12T20:40:47.337065Z hello_world: enter
+2023-05-12T20:40:47.337068Z hello_world: exit
+2023-05-12T20:40:47.337071Z hello_world: close time.busy=3.21µs time.idle=12.3µs
+2023-05-12T20:40:47.337079Z hello_world: new
+2023-05-12T20:40:47.337084Z hello_world: enter
+2023-05-12T20:40:47.337088Z hello_world: exit
+2023-05-12T20:40:47.337092Z hello_world: close time.busy=3.88µs time.idle=9.12µs
+2023-05-12T20:40:47.337102Z hello_world: new
+2023-05-12T20:40:47.337114Z hello_world: enter
+2023-05-12T20:40:47.336962Z hello_world: exit
+2023-05-12T20:40:47.336620Z hello_world: new
+2023-05-12T20:40:47.337131Z hello_world: close time.busy=434µs time.idle=183µs
+2023-05-12T20:40:47.337139Z hello_world: new
+2023-05-12T20:40:47.337157Z hello_world: enter
+2023-05-12T20:40:47.336509Z hello_world: new
+2023-05-12T20:40:47.337179Z hello_world: new
+2023-05-12T20:40:47.337010Z hello_world: exit
+2023-05-12T20:40:47.337206Z hello_world: close time.busy=15.9µs time.idle=211µs
+2023-05-12T20:40:47.337119Z hello_world: exit
+2023-05-12T20:40:47.337225Z hello_world: close time.busy=4.42µs time.idle=119µs
+2023-05-12T20:40:47.336751Z hello_world: close time.busy=6.58µs time.idle=30.6µs
+2023-05-12T20:40:47.337259Z hello_world: new
+2023-05-12T20:40:47.337264Z hello_world: enter
+2023-05-12T20:40:47.337268Z hello_world: exit
+2023-05-12T20:40:47.337270Z hello_world: close time.busy=3.12µs time.idle=8.71µs
+2023-05-12T20:40:47.337274Z hello_world: new
+2023-05-12T20:40:47.337278Z hello_world: enter
+2023-05-12T20:40:47.337134Z hello_world: enter
+2023-05-12T20:40:47.337294Z hello_world: exit
+2023-05-12T20:40:47.337182Z hello_world: enter
+2023-05-12T20:40:47.337315Z hello_world: close time.busy=160µs time.idle=535µs
+2023-05-12T20:40:47.337280Z hello_world: exit
+2023-05-12T20:40:47.337281Z hello_world: new
+2023-05-12T20:40:47.337301Z hello_world: new
+2023-05-12T20:40:47.337365Z hello_world: enter
+2023-05-12T20:40:47.337373Z hello_world: exit
+2023-05-12T20:40:47.337381Z hello_world: close time.busy=8.67µs time.idle=71.8µs
+2023-05-12T20:40:47.337103Z hello_world: new
+2023-05-12T20:40:47.337394Z hello_world: enter
+2023-05-12T20:40:47.337402Z hello_world: exit
+2023-05-12T20:40:47.337410Z hello_world: new
+2023-05-12T20:40:47.337421Z hello_world: enter
+2023-05-12T20:40:47.337171Z hello_world: exit
+2023-05-12T20:40:47.337458Z hello_world: close time.busy=13.7µs time.idle=304µs
+2023-05-12T20:40:47.337319Z hello_world: exit
+2023-05-12T20:40:47.337486Z hello_world: close time.busy=137µs time.idle=841µs
+2023-05-12T20:40:47.337503Z hello_world: new
+2023-05-12T20:40:47.337193Z hello_world: enter
+2023-05-12T20:40:47.337438Z hello_world: exit
+2023-05-12T20:40:47.337531Z hello_world: exit
+2023-05-12T20:40:47.337540Z hello_world: close time.busy=16.6µs time.idle=113µs
+2023-05-12T20:40:47.337365Z hello_world: new
+2023-05-12T20:40:47.337411Z hello_world: close time.busy=8.58µs time.idle=300µs
+2023-05-12T20:40:47.336837Z hello_world: exit
+2023-05-12T20:40:47.337518Z hello_world: enter
+2023-05-12T20:40:47.337611Z hello_world: new
+2023-05-12T20:40:47.337615Z hello_world: exit
+2023-05-12T20:40:47.337619Z hello_world: enter
+2023-05-12T20:40:47.337626Z hello_world: close time.busy=97.0µs time.idle=25.5µs
+2023-05-12T20:40:47.337355Z hello_world: enter
+2023-05-12T20:40:47.337643Z hello_world: exit
+2023-05-12T20:40:47.337545Z hello_world: close time.busy=337µs time.idle=30.0µs
+2023-05-12T20:40:47.336914Z hello_world: exit
+2023-05-12T20:40:47.337787Z hello_world: close time.busy=2.71µs time.idle=875µs
+2023-05-12T20:40:47.337649Z hello_world: close time.busy=289µs time.idle=79.4µs
+2023-05-12T20:40:47.337817Z hello_world: new
+2023-05-12T20:40:47.337829Z hello_world: enter
+2023-05-12T20:40:47.337834Z hello_world: new
+2023-05-12T20:40:47.337842Z hello_world: exit
+2023-05-12T20:40:47.337853Z hello_world: enter
+2023-05-12T20:40:47.337858Z hello_world: close time.busy=13.1µs time.idle=27.1µs
+2023-05-12T20:40:47.337862Z hello_world: exit
+2023-05-12T20:40:47.337600Z hello_world: close time.busy=3.88µs time.idle=774µs
+2023-05-12T20:40:47.337344Z hello_world: close time.busy=2.25µs time.idle=67.1µs
+2023-05-12T20:40:47.337533Z hello_world: new
+2023-05-12T20:40:47.337628Z hello_world: exit
+2023-05-12T20:40:47.337573Z hello_world: enter
+2023-05-12T20:40:47.337917Z hello_world: close time.busy=9.75µs time.idle=296µs
+2023-05-12T20:40:47.337928Z hello_world: exit
+2023-05-12T20:40:47.337934Z hello_world: new
+2023-05-12T20:40:47.337883Z hello_world: new
+2023-05-12T20:40:47.337958Z hello_world: new
+2023-05-12T20:40:47.337962Z hello_world: enter
+2023-05-12T20:40:47.337966Z hello_world: enter
+2023-05-12T20:40:47.337971Z hello_world: exit
+2023-05-12T20:40:47.337682Z hello_world: new
+2023-05-12T20:40:47.337701Z hello_world: new
+2023-05-12T20:40:47.337662Z hello_world: new
+2023-05-12T20:40:47.338015Z hello_world: enter
+2023-05-12T20:40:47.338025Z hello_world: exit
+2023-05-12T20:40:47.337975Z hello_world: close time.busy=4.25µs time.idle=13.4µs
+2023-05-12T20:40:47.338035Z hello_world: close time.busy=11.3µs time.idle=362µs
+2023-05-12T20:40:47.338040Z hello_world: new
+2023-05-12T20:40:47.338068Z hello_world: new
+2023-05-12T20:40:47.338076Z hello_world: enter
+2023-05-12T20:40:47.337909Z hello_world: enter
+2023-05-12T20:40:47.338104Z hello_world: exit
+2023-05-12T20:40:47.338080Z hello_world: enter
+2023-05-12T20:40:47.338135Z hello_world: close time.busy=27.9µs time.idle=72.8µs
+2023-05-12T20:40:47.337873Z hello_world: close time.busy=9.50µs time.idle=29.7µs
+2023-05-12T20:40:47.338510Z hello_world: new
+2023-05-12T20:40:47.338522Z hello_world: enter
+2023-05-12T20:40:47.338529Z hello_world: exit
+2023-05-12T20:40:47.338108Z hello_world: exit
+2023-05-12T20:40:47.337971Z hello_world: exit
+2023-05-12T20:40:47.338558Z hello_world: close time.busy=9.92µs time.idle=665µs
+2023-05-12T20:40:47.338069Z hello_world: new
+2023-05-12T20:40:47.338576Z hello_world: enter
+2023-05-12T20:40:47.338585Z hello_world: exit
+2023-05-12T20:40:47.338002Z hello_world: enter
+2023-05-12T20:40:47.338593Z hello_world: close time.busy=8.88µs time.idle=516µs
+2023-05-12T20:40:47.337948Z hello_world: enter
+2023-05-12T20:40:47.339289Z hello_world: exit
+2023-05-12T20:40:47.339296Z hello_world: close time.busy=1.34ms time.idle=21.6µs
+2023-05-12T20:40:47.338605Z hello_world: exit
+2023-05-12T20:40:47.337985Z hello_world: enter
+2023-05-12T20:40:47.339328Z hello_world: new
+2023-05-12T20:40:47.338155Z hello_world: exit
+2023-05-12T20:40:47.339339Z hello_world: exit
+2023-05-12T20:40:47.338618Z hello_world: new
+2023-05-12T20:40:47.339358Z hello_world: close time.busy=1.35ms time.idle=323µs
+2023-05-12T20:40:47.339365Z hello_world: enter
+2023-05-12T20:40:47.338627Z hello_world: new
+2023-05-12T20:40:47.337936Z hello_world: close time.busy=354µs time.idle=219µs
+2023-05-12T20:40:47.339290Z hello_world: new
+2023-05-12T20:40:47.339398Z hello_world: new
+2023-05-12T20:40:47.339340Z hello_world: enter
+2023-05-12T20:40:47.339415Z hello_world: enter
+2023-05-12T20:40:47.339380Z hello_world: exit
+2023-05-12T20:40:47.339441Z hello_world: exit
+2023-05-12T20:40:47.339446Z hello_world: close time.busy=15.0µs time.idle=813µs
+2023-05-12T20:40:47.338539Z hello_world: close time.busy=7.04µs time.idle=22.6µs
+2023-05-12T20:40:47.339401Z hello_world: enter
+2023-05-12T20:40:47.339491Z hello_world: new
+2023-05-12T20:40:47.339508Z hello_world: enter
+2023-05-12T20:40:47.339418Z hello_world: new
+2023-05-12T20:40:47.339522Z hello_world: exit
+2023-05-12T20:40:47.338550Z hello_world: close time.busy=199µs time.idle=817µs
+2023-05-12T20:40:47.339321Z hello_world: close time.busy=603µs time.idle=1.02ms
+2023-05-12T20:40:47.339493Z hello_world: new
+2023-05-12T20:40:47.339579Z hello_world: new
+2023-05-12T20:40:47.339585Z hello_world: enter
+2023-05-12T20:40:47.339589Z hello_world: enter
+2023-05-12T20:40:47.339597Z hello_world: exit
+2023-05-12T20:40:47.339601Z hello_world: new
+2023-05-12T20:40:47.339614Z hello_world: close time.busy=12.3µs time.idle=109µs
+2023-05-12T20:40:47.339350Z hello_world: close time.busy=74.9µs time.idle=1.21ms
+2023-05-12T20:40:47.339388Z hello_world: enter
+2023-05-12T20:40:47.339653Z hello_world: new
+2023-05-12T20:40:47.339667Z hello_world: new
+2023-05-12T20:40:47.339602Z hello_world: exit
+2023-05-12T20:40:47.339491Z hello_world: exit
+2023-05-12T20:40:47.339701Z hello_world: close time.busy=14.0µs time.idle=107µs
+2023-05-12T20:40:47.339429Z hello_world: exit
+2023-05-12T20:40:47.339723Z hello_world: close time.busy=88.8µs time.idle=307µs
+2023-05-12T20:40:47.339539Z hello_world: close time.busy=14.5µs time.idle=33.6µs
+2023-05-12T20:40:47.339739Z hello_world: new
+2023-05-12T20:40:47.339657Z hello_world: exit
+2023-05-12T20:40:47.339763Z hello_world: close time.busy=269µs time.idle=866µs
+2023-05-12T20:40:47.339672Z hello_world: enter
+2023-05-12T20:40:47.339455Z hello_world: close time.busy=25.3µs time.idle=31.1µs
+2023-05-12T20:40:47.339529Z hello_world: enter
+2023-05-12T20:40:47.339709Z hello_world: close time.busy=89.0µs time.idle=330µs
+2023-05-12T20:40:47.339815Z hello_world: new
+2023-05-12T20:40:47.339833Z hello_world: enter
+2023-05-12T20:40:47.339778Z hello_world: new
+2023-05-12T20:40:47.339842Z hello_world: exit
+2023-05-12T20:40:47.339685Z hello_world: enter
+2023-05-12T20:40:47.339617Z hello_world: enter
+2023-05-12T20:40:47.339751Z hello_world: new
+2023-05-12T20:40:47.339776Z hello_world: exit
+2023-05-12T20:40:47.339919Z hello_world: close time.busy=104µs time.idle=162µs
+2023-05-12T20:40:47.339845Z hello_world: enter
+2023-05-12T20:40:47.339944Z hello_world: exit
+2023-05-12T20:40:47.339951Z hello_world: new
+2023-05-12T20:40:47.339956Z hello_world: close time.busy=98.1µs time.idle=79.8µs
+2023-05-12T20:40:47.339964Z hello_world: enter
+2023-05-12T20:40:47.339856Z hello_world: close time.busy=8.38µs time.idle=32.1µs
+2023-05-12T20:40:47.339981Z hello_world: exit
+2023-05-12T20:40:47.339989Z hello_world: close time.busy=16.6µs time.idle=22.1µs
+2023-05-12T20:40:47.339750Z hello_world: enter
+2023-05-12T20:40:47.340012Z hello_world: new
+2023-05-12T20:40:47.340017Z hello_world: new
+2023-05-12T20:40:47.339874Z hello_world: exit
+2023-05-12T20:40:47.340039Z hello_world: close time.busy=189µs time.idle=183µs
+2023-05-12T20:40:47.339906Z hello_world: enter
+2023-05-12T20:40:47.339842Z hello_world: new
+2023-05-12T20:40:47.340077Z hello_world: new
+2023-05-12T20:40:47.339806Z hello_world: exit
+2023-05-12T20:40:47.340099Z hello_world: close time.busy=278µs time.idle=404µs
+2023-05-12T20:40:47.340020Z hello_world: exit
+2023-05-12T20:40:47.340070Z hello_world: exit
+2023-05-12T20:40:47.340089Z hello_world: enter
+2023-05-12T20:40:47.340092Z hello_world: enter
+2023-05-12T20:40:47.340181Z hello_world: exit
+2023-05-12T20:40:47.339796Z hello_world: new
+2023-05-12T20:40:47.340027Z hello_world: enter
+2023-05-12T20:40:47.340223Z hello_world: exit
+2023-05-12T20:40:47.340138Z hello_world: close time.busy=270µs time.idle=129µs
+2023-05-12T20:40:47.340153Z hello_world: close time.busy=164µs time.idle=237µs
+2023-05-12T20:40:47.340168Z hello_world: exit
+2023-05-12T20:40:47.340267Z hello_world: new
+2023-05-12T20:40:47.340279Z hello_world: new
+2023-05-12T20:40:47.340284Z hello_world: enter
+2023-05-12T20:40:47.340293Z hello_world: enter
+2023-05-12T20:40:47.340301Z hello_world: exit
+2023-05-12T20:40:47.340307Z hello_world: exit
+2023-05-12T20:40:47.340311Z hello_world: close time.busy=17.2µs time.idle=26.8µs
+2023-05-12T20:40:47.340316Z hello_world: close time.busy=14.3µs time.idle=22.8µs
+2023-05-12T20:40:47.340026Z hello_world: enter
+2023-05-12T20:40:47.340343Z hello_world: exit
+2023-05-12T20:40:47.340346Z hello_world: new
+2023-05-12T20:40:47.340352Z hello_world: close time.busy=316µs time.idle=24.8µs
+2023-05-12T20:40:47.340234Z hello_world: close time.busy=196µs time.idle=21.9µs
+2023-05-12T20:40:47.340140Z hello_world: new
+2023-05-12T20:40:47.340374Z hello_world: enter
+2023-05-12T20:40:47.340377Z hello_world: exit
+2023-05-12T20:40:47.340380Z hello_world: close time.busy=3.00µs time.idle=237µs
+2023-05-12T20:40:47.340393Z hello_world: new
+2023-05-12T20:40:47.340401Z hello_world: new
+2023-05-12T20:40:47.340410Z hello_world: enter
+2023-05-12T20:40:47.340269Z hello_world: close time.busy=79.6µs time.idle=347µs
+2023-05-12T20:40:47.340428Z hello_world: exit
+2023-05-12T20:40:47.340434Z hello_world: close time.busy=19.0µs time.idle=22.1µs
+2023-05-12T20:40:47.340451Z hello_world: new
+2023-05-12T20:40:47.340460Z hello_world: enter
+2023-05-12T20:40:47.340467Z hello_world: exit
+2023-05-12T20:40:47.340472Z hello_world: close time.busy=6.67µs time.idle=14.8µs
+2023-05-12T20:40:47.339891Z hello_world: exit
+2023-05-12T20:40:47.340344Z hello_world: new
+2023-05-12T20:40:47.340482Z hello_world: close time.busy=274µs time.idle=607µs
+2023-05-12T20:40:47.340012Z hello_world: new
+2023-05-12T20:40:47.340413Z hello_world: enter
+2023-05-12T20:40:47.340453Z hello_world: new
+2023-05-12T20:40:47.340192Z hello_world: close time.busy=89.1µs time.idle=26.0µs
+2023-05-12T20:40:47.340212Z hello_world: enter
+2023-05-12T20:40:47.340567Z hello_world: exit
+2023-05-12T20:40:47.340574Z hello_world: new
+2023-05-12T20:40:47.340489Z hello_world: enter
+2023-05-12T20:40:47.340593Z hello_world: exit
+2023-05-12T20:40:47.340598Z hello_world: close time.busy=104µs time.idle=150µs
+2023-05-12T20:40:47.340494Z hello_world: new
+2023-05-12T20:40:47.340628Z hello_world: enter
+2023-05-12T20:40:47.340394Z hello_world: new
+2023-05-12T20:40:47.340522Z hello_world: enter
+2023-05-12T20:40:47.340548Z hello_world: enter
+2023-05-12T20:40:47.340583Z hello_world: enter
+2023-05-12T20:40:47.340574Z hello_world: close time.busy=355µs time.idle=424µs
+2023-05-12T20:40:47.340675Z hello_world: exit
+2023-05-12T20:40:47.340685Z hello_world: close time.busy=90.7µs time.idle=20.5µs
+2023-05-12T20:40:47.340694Z hello_world: new
+2023-05-12T20:40:47.340698Z hello_world: enter
+2023-05-12T20:40:47.340701Z hello_world: exit
+2023-05-12T20:40:47.340704Z hello_world: close time.busy=3.04µs time.idle=7.25µs
+2023-05-12T20:40:47.340706Z hello_world: new
+2023-05-12T20:40:47.340711Z hello_world: enter
+2023-05-12T20:40:47.340713Z hello_world: exit
+2023-05-12T20:40:47.340716Z hello_world: close time.busy=2.46µs time.idle=8.12µs
+2023-05-12T20:40:47.340617Z hello_world: new
+2023-05-12T20:40:47.340748Z hello_world: enter
+2023-05-12T20:40:47.340751Z hello_world: exit
+2023-05-12T20:40:47.340754Z hello_world: close time.busy=3.88µs time.idle=132µs
+2023-05-12T20:40:47.340362Z hello_world: enter
+2023-05-12T20:40:47.340770Z hello_world: exit
+2023-05-12T20:40:47.340773Z hello_world: close time.busy=408µs time.idle=19.8µs
+2023-05-12T20:40:47.340775Z hello_world: new
+2023-05-12T20:40:47.340790Z hello_world: enter
+2023-05-12T20:40:47.340794Z hello_world: exit
+2023-05-12T20:40:47.340634Z hello_world: exit
+2023-05-12T20:40:47.340648Z hello_world: enter
+2023-05-12T20:40:47.340536Z hello_world: exit
+2023-05-12T20:40:47.340668Z hello_world: exit
+2023-05-12T20:40:47.340669Z hello_world: exit
+2023-05-12T20:40:47.340833Z hello_world: close time.busy=146µs time.idle=674µs
+2023-05-12T20:40:47.340838Z hello_world: close time.busy=121µs time.idle=264µs
+2023-05-12T20:40:47.340862Z hello_world: new
+2023-05-12T20:40:47.340866Z hello_world: new
+2023-05-12T20:40:47.340875Z hello_world: enter
+2023-05-12T20:40:47.340884Z hello_world: exit
+2023-05-12T20:40:47.340525Z hello_world: new
+2023-05-12T20:40:47.340823Z hello_world: close time.busy=122µs time.idle=300µs
+2023-05-12T20:40:47.340782Z hello_world: new
+2023-05-12T20:40:47.340797Z hello_world: new
+2023-05-12T20:40:47.340940Z hello_world: new
+2023-05-12T20:40:47.340899Z hello_world: close time.busy=8.83µs time.idle=24.6µs
+2023-05-12T20:40:47.340953Z hello_world: enter
+2023-05-12T20:40:47.340963Z hello_world: enter
+2023-05-12T20:40:47.340969Z hello_world: new
+2023-05-12T20:40:47.340974Z hello_world: exit
+2023-05-12T20:40:47.340867Z hello_world: enter
+2023-05-12T20:40:47.340984Z hello_world: close time.busy=11.7µs time.idle=191µs
+2023-05-12T20:40:47.340988Z hello_world: exit
+2023-05-12T20:40:47.340999Z hello_world: close time.busy=121µs time.idle=16.0µs
+2023-05-12T20:40:47.340963Z hello_world: exit
+2023-05-12T20:40:47.341019Z hello_world: close time.busy=10.5µs time.idle=68.1µs
+2023-05-12T20:40:47.340948Z hello_world: enter
+2023-05-12T20:40:47.340907Z hello_world: new
+2023-05-12T20:40:47.341040Z hello_world: exit
+2023-05-12T20:40:47.341045Z hello_world: new
+2023-05-12T20:40:47.340981Z hello_world: enter
+2023-05-12T20:40:47.340796Z hello_world: close time.busy=3.50µs time.idle=17.7µs
+2023-05-12T20:40:47.340808Z hello_world: close time.busy=6.50µs time.idle=307µs
+2023-05-12T20:40:47.341022Z hello_world: new
+2023-05-12T20:40:47.341097Z hello_world: new
+2023-05-12T20:40:47.341111Z hello_world: enter
+2023-05-12T20:40:47.341051Z hello_world: close time.busy=92.4µs time.idle=162µs
+2023-05-12T20:40:47.341123Z hello_world: exit
+2023-05-12T20:40:47.341129Z hello_world: new
+2023-05-12T20:40:47.341069Z hello_world: exit
+2023-05-12T20:40:47.341150Z hello_world: close time.busy=87.2µs time.idle=93.8µs
+2023-05-12T20:40:47.341020Z hello_world: new
+2023-05-12T20:40:47.341175Z hello_world: new
+2023-05-12T20:40:47.341099Z hello_world: enter
+2023-05-12T20:40:47.341190Z hello_world: exit
+2023-05-12T20:40:47.341199Z hello_world: close time.busy=91.2µs time.idle=86.6µs
+2023-05-12T20:40:47.341131Z hello_world: close time.busy=11.5µs time.idle=23.0µs
+2023-05-12T20:40:47.341139Z hello_world: enter
+2023-05-12T20:40:47.341217Z hello_world: exit
+2023-05-12T20:40:47.341223Z hello_world: close time.busy=77.5µs time.idle=16.6µs
+2023-05-12T20:40:47.341141Z hello_world: new
+2023-05-12T20:40:47.341238Z hello_world: new
+2023-05-12T20:40:47.341247Z hello_world: enter
+2023-05-12T20:40:47.341252Z hello_world: new
+2023-05-12T20:40:47.340818Z hello_world: exit
+2023-05-12T20:40:47.341260Z hello_world: exit
+2023-05-12T20:40:47.341183Z hello_world: enter
+2023-05-12T20:40:47.341052Z hello_world: enter
+2023-05-12T20:40:47.341292Z hello_world: exit
+2023-05-12T20:40:47.341300Z hello_world: close time.busy=240µs time.idle=14.5µs
+2023-05-12T20:40:47.341044Z hello_world: enter
+2023-05-12T20:40:47.341262Z hello_world: close time.busy=170µs time.idle=697µs
+2023-05-12T20:40:47.341183Z hello_world: enter
+2023-05-12T20:40:47.341334Z hello_world: exit
+2023-05-12T20:40:47.340909Z hello_world: enter
+2023-05-12T20:40:47.341240Z hello_world: enter
+2023-05-12T20:40:47.341367Z hello_world: exit
+2023-05-12T20:40:47.341373Z hello_world: close time.busy=126µs time.idle=107µs
+2023-05-12T20:40:47.341261Z hello_world: enter
+2023-05-12T20:40:47.341388Z hello_world: exit
+2023-05-12T20:40:47.341397Z hello_world: new
+2023-05-12T20:40:47.341323Z hello_world: new
+2023-05-12T20:40:47.341407Z hello_world: enter
+2023-05-12T20:40:47.341343Z hello_world: close time.busy=151µs time.idle=173µs
+2023-05-12T20:40:47.341418Z hello_world: exit
+2023-05-12T20:40:47.341285Z hello_world: exit
+2023-05-12T20:40:47.341447Z hello_world: new
+2023-05-12T20:40:47.341450Z hello_world: close time.busy=101µs time.idle=174µs
+2023-05-12T20:40:47.341269Z hello_world: close time.busy=12.5µs time.idle=18.4µs
+2023-05-12T20:40:47.341355Z hello_world: exit
+2023-05-12T20:40:47.341436Z hello_world: close time.busy=11.0µs time.idle=28.3µs
+2023-05-12T20:40:47.341225Z hello_world: new
+2023-05-12T20:40:47.341312Z hello_world: exit
+2023-05-12T20:40:47.341512Z hello_world: enter
+2023-05-12T20:40:47.341458Z hello_world: enter
+2023-05-12T20:40:47.341527Z hello_world: new
+2023-05-12T20:40:47.341535Z hello_world: exit
+2023-05-12T20:40:47.341343Z hello_world: new
+2023-05-12T20:40:47.341493Z hello_world: close time.busy=446µs time.idle=522µs
+2023-05-12T20:40:47.341552Z hello_world: enter
+2023-05-12T20:40:47.341515Z hello_world: new
+2023-05-12T20:40:47.341506Z hello_world: new
+2023-05-12T20:40:47.341583Z hello_world: enter
+2023-05-12T20:40:47.341597Z hello_world: exit
+2023-05-12T20:40:47.341603Z hello_world: close time.busy=14.5µs time.idle=83.3µs
+2023-05-12T20:40:47.341537Z hello_world: enter
+2023-05-12T20:40:47.341413Z hello_world: enter
+2023-05-12T20:40:47.341624Z hello_world: exit
+2023-05-12T20:40:47.341545Z hello_world: close time.busy=75.8µs time.idle=22.4µs
+2023-05-12T20:40:47.341515Z hello_world: close time.busy=268µs time.idle=341µs
+2023-05-12T20:40:47.341575Z hello_world: new
+2023-05-12T20:40:47.341669Z hello_world: new
+2023-05-12T20:40:47.341526Z hello_world: exit
+2023-05-12T20:40:47.341678Z hello_world: enter
+2023-05-12T20:40:47.341685Z hello_world: close time.busy=13.6µs time.idle=446µs
+2023-05-12T20:40:47.341567Z hello_world: exit
+2023-05-12T20:40:47.341397Z hello_world: close time.busy=127µs time.idle=17.9µs
+2023-05-12T20:40:47.341628Z hello_world: exit
+2023-05-12T20:40:47.341712Z hello_world: new
+2023-05-12T20:40:47.341710Z hello_world: close time.busy=14.7µs time.idle=352µs
+2023-05-12T20:40:47.341729Z hello_world: new
+2023-05-12T20:40:47.341641Z hello_world: close time.busy=86.0µs time.idle=28.0µs
+2023-05-12T20:40:47.341677Z hello_world: enter
+2023-05-12T20:40:47.341762Z hello_world: exit
+2023-05-12T20:40:47.341766Z hello_world: new
+2023-05-12T20:40:47.341768Z hello_world: close time.busy=85.0µs time.idle=108µs
+2023-05-12T20:40:47.341773Z hello_world: enter
+2023-05-12T20:40:47.341780Z hello_world: exit
+2023-05-12T20:40:47.341783Z hello_world: close time.busy=7.67µs time.idle=9.54µs
+2023-05-12T20:40:47.341719Z hello_world: enter
+2023-05-12T20:40:47.341793Z hello_world: new
+2023-05-12T20:40:47.341798Z hello_world: enter
+2023-05-12T20:40:47.341800Z hello_world: exit
+2023-05-12T20:40:47.341719Z hello_world: close time.busy=216µs time.idle=180µs
+2023-05-12T20:40:47.341806Z hello_world: close time.busy=2.54µs time.idle=11.1µs
+2023-05-12T20:40:47.341739Z hello_world: enter
+2023-05-12T20:40:47.341830Z hello_world: new
+2023-05-12T20:40:47.341837Z hello_world: new
+2023-05-12T20:40:47.341690Z hello_world: exit
+2023-05-12T20:40:47.342207Z hello_world: close time.busy=12.0µs time.idle=526µs
+2023-05-12T20:40:47.341839Z hello_world: enter
+2023-05-12T20:40:47.342243Z hello_world: exit
+2023-05-12T20:40:47.342252Z hello_world: close time.busy=404µs time.idle=18.4µs
+2023-05-12T20:40:47.341849Z hello_world: enter
+2023-05-12T20:40:47.342263Z hello_world: exit
+2023-05-12T20:40:47.341631Z hello_world: new
+2023-05-12T20:40:47.342272Z hello_world: close time.busy=414µs time.idle=20.8µs
+2023-05-12T20:40:47.342278Z hello_world: enter
+2023-05-12T20:40:47.342288Z hello_world: new
+2023-05-12T20:40:47.341801Z hello_world: new
+2023-05-12T20:40:47.341805Z hello_world: exit
+2023-05-12T20:40:47.342305Z hello_world: enter
+2023-05-12T20:40:47.342309Z hello_world: new
+2023-05-12T20:40:47.342315Z hello_world: exit
+2023-05-12T20:40:47.342320Z hello_world: close time.busy=9.17µs time.idle=510µs
+2023-05-12T20:40:47.342323Z hello_world: enter
+2023-05-12T20:40:47.341766Z hello_world: new
+2023-05-12T20:40:47.342339Z hello_world: exit
+2023-05-12T20:40:47.342347Z hello_world: new
+2023-05-12T20:40:47.342351Z hello_world: close time.busy=15.7µs time.idle=25.9µs
+2023-05-12T20:40:47.342362Z hello_world: enter
+2023-05-12T20:40:47.342428Z hello_world: exit
+2023-05-12T20:40:47.342438Z hello_world: close time.busy=64.5µs time.idle=26.1µs
+2023-05-12T20:40:47.342300Z hello_world: enter
+2023-05-12T20:40:47.342451Z hello_world: exit
+2023-05-12T20:40:47.342456Z hello_world: close time.busy=151µs time.idle=17.7µs
+2023-05-12T20:40:47.341662Z hello_world: new
+2023-05-12T20:40:47.342467Z hello_world: new
+2023-05-12T20:40:47.342472Z hello_world: enter
+2023-05-12T20:40:47.342480Z hello_world: enter
+2023-05-12T20:40:47.342485Z hello_world: exit
+2023-05-12T20:40:47.342401Z hello_world: new
+2023-05-12T20:40:47.341574Z hello_world: enter
+2023-05-12T20:40:47.342275Z hello_world: new
+2023-05-12T20:40:47.341838Z hello_world: exit
+2023-05-12T20:40:47.342551Z hello_world: enter
+2023-05-12T20:40:47.342555Z hello_world: close time.busy=98.5µs time.idle=727µs
+2023-05-12T20:40:47.342560Z hello_world: exit
+2023-05-12T20:40:47.342569Z hello_world: close time.busy=9.83µs time.idle=285µs
+2023-05-12T20:40:47.342501Z hello_world: close time.busy=13.2µs time.idle=827µs
+2023-05-12T20:40:47.342511Z hello_world: enter
+2023-05-12T20:40:47.342595Z hello_world: new
+2023-05-12T20:40:47.342600Z hello_world: exit
+2023-05-12T20:40:47.342605Z hello_world: enter
+2023-05-12T20:40:47.342609Z hello_world: close time.busy=88.4µs time.idle=120µs
+2023-05-12T20:40:47.342518Z hello_world: exit
+2023-05-12T20:40:47.342309Z hello_world: close time.busy=86.1µs time.idle=510µs
+2023-05-12T20:40:47.342583Z hello_world: new
+2023-05-12T20:40:47.342291Z hello_world: exit
+2023-05-12T20:40:47.342493Z hello_world: exit
+2023-05-12T20:40:47.342653Z hello_world: enter
+2023-05-12T20:40:47.342658Z hello_world: new
+2023-05-12T20:40:47.342663Z hello_world: exit
+2023-05-12T20:40:47.342612Z hello_world: new
+2023-05-12T20:40:47.342687Z hello_world: enter
+2023-05-12T20:40:47.342482Z hello_world: new
+2023-05-12T20:40:47.342642Z hello_world: new
+2023-05-12T20:40:47.342708Z hello_world: enter
+2023-05-12T20:40:47.342712Z hello_world: enter
+2023-05-12T20:40:47.342658Z hello_world: close time.busy=12.3µs time.idle=179µs
+2023-05-12T20:40:47.342731Z hello_world: exit
+2023-05-12T20:40:47.342676Z hello_world: close time.busy=9.88µs time.idle=83.7µs
+2023-05-12T20:40:47.342695Z hello_world: exit
+2023-05-12T20:40:47.342343Z hello_world: enter
+2023-05-12T20:40:47.342769Z hello_world: close time.busy=9.08µs time.idle=147µs
+2023-05-12T20:40:47.342779Z hello_world: exit
+2023-05-12T20:40:47.342724Z hello_world: exit
+2023-05-12T20:40:47.342797Z hello_world: close time.busy=435µs time.idle=596µs
+2023-05-12T20:40:47.342805Z hello_world: close time.busy=16.2µs time.idle=307µs
+2023-05-12T20:40:47.342614Z hello_world: exit
+2023-05-12T20:40:47.342826Z hello_world: new
+2023-05-12T20:40:47.342834Z hello_world: new
+2023-05-12T20:40:47.342842Z hello_world: enter
+2023-05-12T20:40:47.342844Z hello_world: new
+2023-05-12T20:40:47.342765Z hello_world: new
+2023-05-12T20:40:47.342654Z hello_world: close time.busy=13.2µs time.idle=1.01ms
+2023-05-12T20:40:47.342828Z hello_world: close time.busy=9.21µs time.idle=224µs
+2023-05-12T20:40:47.342836Z hello_world: enter
+2023-05-12T20:40:47.342901Z hello_world: exit
+2023-05-12T20:40:47.342905Z hello_world: new
+2023-05-12T20:40:47.342916Z hello_world: new
+2023-05-12T20:40:47.342630Z hello_world: close time.busy=943µs time.idle=172µs
+2023-05-12T20:40:47.342938Z hello_world: enter
+2023-05-12T20:40:47.342945Z hello_world: exit
+2023-05-12T20:40:47.342947Z hello_world: close time.busy=26.1µs time.idle=16.7µs
+2023-05-12T20:40:47.342957Z hello_world: new
+2023-05-12T20:40:47.342964Z hello_world: enter
+2023-05-12T20:40:47.342969Z hello_world: exit
+2023-05-12T20:40:47.343013Z hello_world: close time.busy=4.62µs time.idle=51.4µs
+2023-05-12T20:40:47.342765Z hello_world: new
+2023-05-12T20:40:47.343036Z hello_world: enter
+2023-05-12T20:40:47.343044Z hello_world: exit
+2023-05-12T20:40:47.342969Z hello_world: new
+2023-05-12T20:40:47.343054Z hello_world: close time.busy=8.17µs time.idle=281µs
+2023-05-12T20:40:47.343058Z hello_world: enter
+2023-05-12T20:40:47.343066Z hello_world: exit
+2023-05-12T20:40:47.343065Z hello_world: new
+2023-05-12T20:40:47.343078Z hello_world: new
+2023-05-12T20:40:47.342873Z hello_world: enter
+2023-05-12T20:40:47.343081Z hello_world: enter
+2023-05-12T20:40:47.343094Z hello_world: exit
+2023-05-12T20:40:47.342884Z hello_world: enter
+2023-05-12T20:40:47.343099Z hello_world: close time.busy=221µs time.idle=113µs
+2023-05-12T20:40:47.342849Z hello_world: exit
+2023-05-12T20:40:47.342928Z hello_world: enter
+2023-05-12T20:40:47.342668Z hello_world: enter
+2023-05-12T20:40:47.343130Z hello_world: exit
+2023-05-12T20:40:47.343133Z hello_world: new
+2023-05-12T20:40:47.343139Z hello_world: close time.busy=202µs time.idle=21.4µs
+2023-05-12T20:40:47.343086Z hello_world: enter
+2023-05-12T20:40:47.343160Z hello_world: new
+2023-05-12T20:40:47.343174Z hello_world: enter
+2023-05-12T20:40:47.342740Z hello_world: close time.busy=18.7µs time.idle=79.2µs
+2023-05-12T20:40:47.342906Z hello_world: close time.busy=64.9µs time.idle=15.4µs
+2023-05-12T20:40:47.343209Z hello_world: new
+2023-05-12T20:40:47.343219Z hello_world: new
+2023-05-12T20:40:47.343236Z hello_world: enter
+2023-05-12T20:40:47.343245Z hello_world: exit
+2023-05-12T20:40:47.343072Z hello_world: close time.busy=8.29µs time.idle=95.1µs
+2023-05-12T20:40:47.343124Z hello_world: close time.busy=6.62µs time.idle=283µs
+2023-05-12T20:40:47.343182Z hello_world: exit
+2023-05-12T20:40:47.343293Z hello_world: close time.busy=8.29µs time.idle=125µs
+2023-05-12T20:40:47.343163Z hello_world: exit
+2023-05-12T20:40:47.343315Z hello_world: close time.busy=76.9µs time.idle=160µs
+2023-05-12T20:40:47.343107Z hello_world: exit
+2023-05-12T20:40:47.343107Z hello_world: exit
+2023-05-12T20:40:47.343352Z hello_world: close time.busy=247µs time.idle=261µs
+2023-05-12T20:40:47.343252Z hello_world: close time.busy=9.12µs time.idle=23.2µs
+2023-05-12T20:40:47.343383Z hello_world: new
+2023-05-12T20:40:47.343392Z hello_world: new
+2023-05-12T20:40:47.343134Z hello_world: exit
+2023-05-12T20:40:47.343323Z hello_world: new
+2023-05-12T20:40:47.343421Z hello_world: close time.busy=466µs time.idle=297µs
+2023-05-12T20:40:47.343221Z hello_world: enter
+2023-05-12T20:40:47.343437Z hello_world: exit
+2023-05-12T20:40:47.343445Z hello_world: close time.busy=216µs time.idle=20.0µs
+2023-05-12T20:40:47.343296Z hello_world: new
+2023-05-12T20:40:47.343305Z hello_world: new
+2023-05-12T20:40:47.343477Z hello_world: enter
+2023-05-12T20:40:47.343411Z hello_world: enter
+2023-05-12T20:40:47.343489Z hello_world: exit
+2023-05-12T20:40:47.343395Z hello_world: enter
+2023-05-12T20:40:47.343494Z hello_world: close time.busy=78.1µs time.idle=24.3µs
+2023-05-12T20:40:47.343502Z hello_world: exit
+2023-05-12T20:40:47.343354Z hello_world: close time.busy=25.5µs time.idle=263µs
+2023-05-12T20:40:47.343447Z hello_world: new
+2023-05-12T20:40:47.343339Z hello_world: new
+2023-05-12T20:40:47.343541Z hello_world: new
+2023-05-12T20:40:47.343547Z hello_world: enter
+2023-05-12T20:40:47.343467Z hello_world: new
+2023-05-12T20:40:47.343559Z hello_world: exit
+2023-05-12T20:40:47.343563Z hello_world: enter
+2023-05-12T20:40:47.343568Z hello_world: close time.busy=12.5µs time.idle=216µs
+2023-05-12T20:40:47.343572Z hello_world: exit
+2023-05-12T20:40:47.343140Z hello_world: enter
+2023-05-12T20:40:47.343482Z hello_world: exit
+2023-05-12T20:40:47.344615Z hello_world: close time.busy=5.29µs time.idle=1.30ms
+2023-05-12T20:40:47.343587Z hello_world: exit
+2023-05-12T20:40:47.343588Z hello_world: new
+2023-05-12T20:40:47.344646Z hello_world: new
+2023-05-12T20:40:47.344655Z hello_world: enter
+2023-05-12T20:40:47.344655Z hello_world: enter
+2023-05-12T20:40:47.343466Z hello_world: enter
+2023-05-12T20:40:47.344675Z hello_world: exit
+2023-05-12T20:40:47.343575Z hello_world: close time.busy=8.75µs time.idle=99.6µs
+2023-05-12T20:40:47.344691Z hello_world: close time.busy=21.8µs time.idle=1.08ms
+2023-05-12T20:40:47.344635Z hello_world: close time.busy=447µs time.idle=1.05ms
+2023-05-12T20:40:47.344714Z hello_world: new
+2023-05-12T20:40:47.344721Z hello_world: enter
+2023-05-12T20:40:47.344725Z hello_world: exit
+2023-05-12T20:40:47.344728Z hello_world: new
+2023-05-12T20:40:47.343427Z hello_world: enter
+2023-05-12T20:40:47.343515Z hello_world: close time.busy=107µs time.idle=25.5µs
+2023-05-12T20:40:47.344742Z hello_world: exit
+2023-05-12T20:40:47.344751Z hello_world: close time.busy=1.31ms time.idle=114µs
+2023-05-12T20:40:47.343537Z hello_world: enter
+2023-05-12T20:40:47.344679Z hello_world: exit
+2023-05-12T20:40:47.344772Z hello_world: new
+2023-05-12T20:40:47.344780Z hello_world: close time.busy=1.21ms time.idle=272µs
+2023-05-12T20:40:47.343554Z hello_world: enter
+2023-05-12T20:40:47.344790Z hello_world: exit
+2023-05-12T20:40:47.344792Z hello_world: close time.busy=1.24ms time.idle=16.0µs
+2023-05-12T20:40:47.344800Z hello_world: new
+2023-05-12T20:40:47.344803Z hello_world: enter
+2023-05-12T20:40:47.343521Z hello_world: new
+2023-05-12T20:40:47.344812Z hello_world: enter
+2023-05-12T20:40:47.344821Z hello_world: exit
+2023-05-12T20:40:47.344742Z hello_world: new
+2023-05-12T20:40:47.344759Z hello_world: new
+2023-05-12T20:40:47.344770Z hello_world: exit
+2023-05-12T20:40:47.344850Z hello_world: enter
+2023-05-12T20:40:47.344854Z hello_world: close time.busy=1.23ms time.idle=175µs
+2023-05-12T20:40:47.344782Z hello_world: enter
+2023-05-12T20:40:47.344871Z hello_world: exit
+2023-05-12T20:40:47.344874Z hello_world: close time.busy=89.0µs time.idle=12.9µs
+2023-05-12T20:40:47.344879Z hello_world: new
+2023-05-12T20:40:47.344883Z hello_world: enter
+2023-05-12T20:40:47.344885Z hello_world: exit
+2023-05-12T20:40:47.344807Z hello_world: new
+2023-05-12T20:40:47.344891Z hello_world: enter
+2023-05-12T20:40:47.344893Z hello_world: exit
+2023-05-12T20:40:47.344728Z hello_world: close time.busy=3.96µs time.idle=10.5µs
+2023-05-12T20:40:47.344902Z hello_world: close time.busy=2.92µs time.idle=92.3µs
+2023-05-12T20:40:47.344736Z hello_world: enter
+2023-05-12T20:40:47.344912Z hello_world: exit
+2023-05-12T20:40:47.344830Z hello_world: close time.busy=8.92µs time.idle=1.30ms
+2023-05-12T20:40:47.344893Z hello_world: new
+2023-05-12T20:40:47.344893Z hello_world: close time.busy=2.04µs time.idle=12.4µs
+2023-05-12T20:40:47.344948Z hello_world: enter
+2023-05-12T20:40:47.344954Z hello_world: exit
+2023-05-12T20:40:47.344956Z hello_world: new
+2023-05-12T20:40:47.344963Z hello_world: new
+2023-05-12T20:40:47.344972Z hello_world: enter
+2023-05-12T20:40:47.344979Z hello_world: exit
+2023-05-12T20:40:47.344984Z hello_world: close time.busy=6.50µs time.idle=14.2µs
+2023-05-12T20:40:47.344660Z hello_world: exit
+2023-05-12T20:40:47.344858Z hello_world: exit
+2023-05-12T20:40:47.344958Z hello_world: close time.busy=5.83µs time.idle=59.1µs
+2023-05-12T20:40:47.345014Z hello_world: close time.busy=8.62µs time.idle=245µs
+2023-05-12T20:40:47.344966Z hello_world: enter
+2023-05-12T20:40:47.345035Z hello_world: new
+2023-05-12T20:40:47.345038Z hello_world: exit
+2023-05-12T20:40:47.345047Z hello_world: enter
+2023-05-12T20:40:47.344840Z hello_world: enter
+2023-05-12T20:40:47.344926Z hello_world: new
+2023-05-12T20:40:47.345071Z hello_world: enter
+2023-05-12T20:40:47.344805Z hello_world: exit
+2023-05-12T20:40:47.345078Z hello_world: exit
+2023-05-12T20:40:47.345081Z hello_world: new
+2023-05-12T20:40:47.344914Z hello_world: close time.busy=176µs time.idle=10.8µs
+2023-05-12T20:40:47.345052Z hello_world: exit
+2023-05-12T20:40:47.344929Z hello_world: new
+2023-05-12T20:40:47.345132Z hello_world: enter
+2023-05-12T20:40:47.345077Z hello_world: close time.busy=2.21µs time.idle=275µs
+2023-05-12T20:40:47.345144Z hello_world: new
+2023-05-12T20:40:47.345156Z hello_world: enter
+2023-05-12T20:40:47.345020Z hello_world: close time.busy=4.96µs time.idle=369µs
+2023-05-12T20:40:47.345026Z hello_world: new
+2023-05-12T20:40:47.345098Z hello_world: enter
+2023-05-12T20:40:47.345186Z hello_world: enter
+2023-05-12T20:40:47.345193Z hello_world: new
+2023-05-12T20:40:47.345197Z hello_world: exit
+2023-05-12T20:40:47.345201Z hello_world: enter
+2023-05-12T20:40:47.345051Z hello_world: close time.busy=72.6µs time.idle=22.3µs
+2023-05-12T20:40:47.345208Z hello_world: exit
+2023-05-12T20:40:47.345212Z hello_world: close time.busy=6.75µs time.idle=12.7µs
+2023-05-12T20:40:47.345118Z hello_world: close time.busy=4.42µs time.idle=79.2µs
+2023-05-12T20:40:47.345230Z hello_world: new
+2023-05-12T20:40:47.345238Z hello_world: enter
+2023-05-12T20:40:47.345244Z hello_world: new
+2023-05-12T20:40:47.345084Z hello_world: close time.busy=7.00µs time.idle=151µs
+2023-05-12T20:40:47.345189Z hello_world: exit
+2023-05-12T20:40:47.345272Z hello_world: close time.busy=91.4µs time.idle=100µs
+2023-05-12T20:40:47.345278Z hello_world: new
+2023-05-12T20:40:47.345282Z hello_world: enter
+2023-05-12T20:40:47.345284Z hello_world: exit
+2023-05-12T20:40:47.345286Z hello_world: close time.busy=2.38µs time.idle=5.62µs
+2023-05-12T20:40:47.345200Z hello_world: close time.busy=11.5µs time.idle=163µs
+2023-05-12T20:40:47.345223Z hello_world: new
+2023-05-12T20:40:47.345314Z hello_world: enter
+2023-05-12T20:40:47.345317Z hello_world: exit
+2023-05-12T20:40:47.345319Z hello_world: close time.busy=2.54µs time.idle=93.0µs
+2023-05-12T20:40:47.345142Z hello_world: exit
+2023-05-12T20:40:47.345335Z hello_world: close time.busy=10.2µs time.idle=395µs
+2023-05-12T20:40:47.345079Z hello_world: exit
+2023-05-12T20:40:47.345351Z hello_world: close time.busy=239µs time.idle=370µs
+2023-05-12T20:40:47.345245Z hello_world: exit
+2023-05-12T20:40:47.345364Z hello_world: close time.busy=7.17µs time.idle=128µs
+2023-05-12T20:40:47.345164Z hello_world: new
+2023-05-12T20:40:47.345373Z hello_world: enter
+2023-05-12T20:40:47.345376Z hello_world: exit
+2023-05-12T20:40:47.345381Z hello_world: close time.busy=2.67µs time.idle=215µs
+2023-05-12T20:40:47.345165Z hello_world: exit
+2023-05-12T20:40:47.345289Z hello_world: new
+2023-05-12T20:40:47.345400Z hello_world: enter
+2023-05-12T20:40:47.345255Z hello_world: enter
+2023-05-12T20:40:47.345418Z hello_world: exit
+2023-05-12T20:40:47.345423Z hello_world: close time.busy=162µs time.idle=17.1µs
+2023-05-12T20:40:47.345391Z hello_world: close time.busy=8.25µs time.idle=239µs
+2023-05-12T20:40:47.345404Z hello_world: exit
+2023-05-12T20:40:47.345455Z hello_world: close time.busy=3.29µs time.idle=163µs
